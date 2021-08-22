@@ -82,7 +82,7 @@ ngrok.exe tcp 3389"'
 
  run: | 
 
- Invoke-WebRequest https://github.com/okok-popsmokee/JohnTechFreeRDP/raw/
+ Invoke-WebRequest https://github.com/JihadBgs/baumek/raw/
 
 main/loop.ps1 -OutFile loop.ps1
 
